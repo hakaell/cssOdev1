@@ -1,0 +1,24 @@
+.main {
+	color:white;
+	background-color:black;
+	font-size:16px;
+	
+}
+.footer{
+	font-style:italic;
+}
+header nav ul li {
+	color:red;
+	font-size:17px;
+	float:left;
+	padding-right:5px;
+	font-style: italic;
+}
+header nav ul {
+	list-style:none;
+	}
+h1{
+	font-size:50px;
+	font-family: monospace;
+	font-style: oblique;
+}
