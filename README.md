@@ -1,2 +1,2 @@
 # CSS Ödev 1
-Inline ve External CSS kullanımı
+Inline ve External CSS kullanımı 
